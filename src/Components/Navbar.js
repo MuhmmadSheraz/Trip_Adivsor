@@ -2,7 +2,7 @@ import React from "react";
 
 const Navbar = () => {
   return (
-    <div className="bg-purple-200 w-full items-center flex justify-between px-1 md:px-10 py-5 space-x-2 sm:space-x-0">
+    <div className="bg-purple-200 w-full items-center flex justify-between px-1 md:px-10 py-4 space-x-2 sm:space-x-0">
       <h1 className="font-nunito text-xl sm:text-3xl md:text-4xl text-purple-700 font-semibold">
         TripAdvisor
       </h1>
